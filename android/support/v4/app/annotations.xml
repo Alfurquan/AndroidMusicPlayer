@@ -1,0 +1,6 @@
+<root>
+  <item
+      name='android.support.v4.app.Fragment android.view.LayoutInflater getLayoutInflater(android.os.Bundle)'>
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
